@@ -2,9 +2,9 @@
 
 账号🐔了。~~只有标清..~~ 高清为主😅 gitee仓库被改私有了..
 
-gitee ip被封禁，请求超时，仓库链接已🐔，如需继续使用请本地部署
+莫名奇妙又恢复了。。。估计gitee抽风。
 
-~~访问地址(可回看当天内容)~~
+访问地址(可回看当天内容)
 
 ```
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfac
 https://develop202.github.io/migu_video/interface.txt
 ```
 
-~~网络环境差的话可以用这个(不一定稳定,其他加速网站也可以)~~
+网络环境差的话可以用这个(不一定稳定,其他加速网站也可以)
 
 ```
 https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
