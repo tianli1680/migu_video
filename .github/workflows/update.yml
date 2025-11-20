@@ -19,6 +19,7 @@ jobs:
         run: |
           cp migu_video/interface.txt .
           cp migu_video/playback.xml .
+          rm -rf migu_video
       - name: 推送
         run: |
           if ! git diff --quiet --exit-code || [ -n "$(git status --porcelain)" ]; then
